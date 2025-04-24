@@ -1,0 +1,70 @@
+Quadrant,Utterance,object,in,out,Bound to,
+2,1,New-Gr-Cu1,A,,Q3-C32-Gr-Cu in 2-2,
+2,1,New-Gr-Cu2,A,,Q2-C31-Gr-Cu in 2-9,
+2,1,New-Bl-Pr,A,,Q2-C13-Bl-Pr in 2-2,
+2,1,New-Re-Rl,A,,Q3-C33-Re-Rl in 2-2,
+2,2,Q4-C32-Bl-Rl,A,,,
+2,1,New-Ye-Rl,A,,,
+2,1,Q4-C22-Ye-Cu,A,,,
+2,1,Q4-C21-Re-Pr,A,,,
+2,2,Q4-C21-Re-Pr,,A,,
+2,2,Q4-C32-Bl-Rl,,A,,
+2,2,Q4-C22-Ye-Cu,,A,,
+2,2,New-Ye-Rl,,A,,
+2,2,New-Gr-Cu2,,A,Q2-C31-Gr-Cu in 2-9,
+2,3,Q2-C13-Bl-Pr,IF,,,
+2,4,Q4-C21-Re-Pr,"A,IF",,,IF for Instructor
+2,4,Q2-C13-Bl-Pr,,IF,,
+2,4,Q3-C33-Re-Rl,IF,,,IF for Learner
+2,5,Q3-C33-Re-Rl,,IF,,IF was only for Learner
+2,5,Q4-C21-Re-Pr,,,,Now IF for Learner also
+2,6,Q4-C21-Re-Pr,,IF,,
+2,6,New-Gr-Cu2,A,,Q2-C31-Gr-Cu in 2-9,
+2,7,,,,,"As unit green cubes are IF, but not individually"
+2,7,Q2-C13-Bl-Pr,,A,,
+2,7,Q3-C33-Re-Rl,,A,,
+2,8,New-Gr-Cu2,IF,,Q2-C31-Gr-Cu in 2-9,
+2,9,Q2-C31-Gr-Cu,,IF,,
+2,9,Q4-C12-Ye-Cu,A,,,
+2,9,Q4-C21-Re-Pr,,A,,
+2,10,Q2-C31-Gr-Cu,,A,,
+2,10,Q3-C32-Gr-Cu,,A,,
+2,10,Q4-C12-Gr-Rl,A,,,"IF together, A seperate"
+2,10,Q4-C13-Gr-Rl,A,,,"IF together, A seperate"
+2,11,,,,,
+2,12,Q4-C12-Ye-Cu,,A,,
+2,12,Q4-C22-Ye-Cu,,A,,
+2,13,,,,,
+2,14,Q4-C11-Gr-Ar,A,,,"IF together, A seperate"
+2,14,Q4-C23-Gr-Ar,A,,,"IF together, A seperate"
+2,14,Q4-C12-Gr-Rl,,A,,
+2,14,Q4-C13-Gr-Rl,,A,,
+2,15,,,,,
+,,,,,,
+3,1,Q3-C23-Ye-Pr,"A,IF",,,
+3,2,Q3-C22-Gr-Rl,"A,IF",,,
+3,2,Q3-C23-Ye-Pr,,IF,,
+3,3,Q3-C12-Re-Rl,"A,IF",,,
+3,3,Q3-C22-Gr-Rl,,IF,,
+3,4,Q3-C31-Gr-Pr,"A,IF",,,
+3,4,Q3-C12-Re-Rl,,IF,,
+3,5,Q3-C22-Gr-Rl,,A,,
+3,6,Q3-C31-Gr-Pr,,IF,,
+3,7,Q3-C12-Re-Rl,,A,,
+3,7,Q3-C11-Bl-Cu,A,,,"IF together, A seperate"
+3,7,Q3-C13-Bl-Cu,A,,,"IF together, A seperate"
+3,8,Q3-C21-Re-Cu,A,,,"IF together, A seperate"
+3,8,Q3-C31-Re-Cu,A,,,"IF together, A seperate"
+3,8,Q3-C23-Ye-Pr,,A,,
+3,9,,,,,
+3,10,,,,,
+3,11,Q3-C31-Gr-Pr,,A,,
+3,12,New-Gr-Cy,A,,Q2-C32-Gr-Cy in 2-14,
+3,12,New-Re-Pr,A,,Q4-C22-Re-Pr in 2-14,
+3,12,Q3-C31-Gr-Pr,A,,,
+3,13,,,,,
+3,14,Q2-C32-Gr-Cy,IF,,,
+3,14,Q3-C11-Bl-Cu,,A,,
+3,14,Q3-C13-Bl-Cu,,A,,
+3,15,Q2-C32-Gr-Cy,,IF,,
+3,15,Q4-C22-Re-Pr,IF,,,

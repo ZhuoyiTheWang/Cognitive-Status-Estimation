@@ -1,0 +1,159 @@
+Row 1 differs:
+File 1: ['Quadrant', 'Utterance', 'object', 'in', 'out', 'Bound to', '']
+File 2: ['Quadrant', 'Utterance', 'object', 'in', 'out', 'Bound to']
+Row 2 differs:
+File 1: ['2', '1', 'Q4-C11-Re-Pr', 'A', '', '', '']
+File 2: ['2', '1', 'Q4-C11-Re-Pr', 'A', '', '']
+Row 3 differs:
+File 1: ['2', '2', 'New-Bl-Pr', 'TI', '', '', '']
+File 2: ['2', '2', 'New-Bl-Pr', 'TI', '', '']
+Row 4 differs:
+File 1: ['2', '3', '', '', '', '', '']
+File 2: ['2', '3', '', '', '', '']
+Row 5 differs:
+File 1: ['2', '4', 'Q2-C32-Bl-Pr', 'A,IF', '', '', '']
+File 2: ['2', '4', 'Q2-C32-Bl-Pr', 'A,IF', '', '']
+Row 6 differs:
+File 1: ['2', '4', 'Q4-C11-Re-Pr', '', 'A', '', '']
+File 2: ['2', '4', 'Q4-C11-Re-Pr', '', 'A', '']
+Row 7 differs:
+File 1: ['2', '5', 'Q4-C11-Gr-Cu', 'A,IF', '', '', '']
+File 2: ['2', '5', 'Q4-C11-Gr-Cu', 'A,IF', '', '']
+Row 8 differs:
+File 1: ['2', '5', 'Q2-C32-Bl-Pr', '', 'IF', '', '']
+File 2: ['2', '5', 'Q2-C32-Bl-Pr', '', 'IF', '']
+Row 9 differs:
+File 1: ['2', '6', '', '', '', '', '']
+File 2: ['2', '6', '', '', '', '']
+Row 10 differs:
+File 1: ['2', '7', 'Q4-C33-Ye-Cu', 'A,IF', '', '', '']
+File 2: ['2', '7', 'Q4-C33-Ye-Cu', 'A,IF', '', '']
+Row 11 differs:
+File 1: ['2', '7', 'Q4-C11-Gr-Cu', '', 'IF', '', '']
+File 2: ['2', '7', 'Q4-C11-Gr-Cu', '', 'IF', '']
+Row 12 differs:
+File 1: ['2', '7', 'Q4-C11-Re-Pr', '', 'A', '', '']
+File 2: ['2', '7', 'Q4-C11-Re-Pr', '', 'A', '']
+Row 13 differs:
+File 1: ['2', '8', '', '', '', '', '']
+File 2: ['2', '8', '', '', '', '']
+Row 14 differs:
+File 1: ['2', '9', 'Q4-C21-Gr-Rl', 'A,IF', '', '', '']
+File 2: ['2', '9', 'Q4-C21-Gr-Rl', 'A,IF', '', '']
+Row 15 differs:
+File 1: ['2', '9', 'Q4-C23-Gr-Rl', 'A,IF', '', '', '']
+File 2: ['2', '9', 'Q4-C23-Gr-Rl', 'A,IF', '', '']
+Row 16 differs:
+File 1: ['2', '9', 'Q4-C33-Ye-Cu', '', 'IF', '', '']
+File 2: ['2', '9', 'Q4-C33-Ye-Cu', '', 'IF', '']
+Row 17 differs:
+File 1: ['2', '9', 'Q4-C11-Gr-Cu', '', 'A', '', '']
+File 2: ['2', '9', 'Q4-C11-Gr-Cu', '', 'A', '']
+Row 18 differs:
+File 1: ['2', '10', '', '', '', '', '']
+File 2: ['2', '10', '', '', '', '']
+Row 19 differs:
+File 1: ['2', '11', 'Q4-C11-Re-Pr', 'A', '', 'Possibly IF', 'If A, breaks topic-role rule']
+File 2: ['2', '11', 'Q4-C11-Re-Pr', 'A', '', '']
+Row 20 differs:
+File 1: ['2', '11', 'Q2-C32-Bl-Pr', 'A', '', 'Possibly IF', '']
+File 2: ['2', '11', 'Q2-C32-Bl-Pr', 'A', '', '']
+Row 21 differs:
+File 1: ['2', '11', 'Q4-C21-Gr-Rl', '', 'IF', '', '']
+File 2: ['2', '11', 'Q4-C21-Gr-Rl', '', 'IF', '']
+Row 22 differs:
+File 1: ['2', '11', 'Q4-C23-Gr-Rl', '', 'IF', '', '']
+File 2: ['2', '11', 'Q4-C23-Gr-Rl', '', 'IF', '']
+Row 23 differs:
+File 1: ['2', '11', 'Q4-C33-Ye-Cu', '', 'F', '', '']
+File 2: ['2', '11', 'Q4-C33-Ye-Cu', '', 'F', '']
+Row 24 differs:
+File 1: ['2', '12', 'New-Gr-Cu', 'TI', '', '', '']
+File 2: ['2', '12', 'New-Gr-Cu', 'TI', '', '']
+Row 25 differs:
+File 1: ['2', '12', 'Q4-C21-Gr-Rl', '', '', 'if IF, now A', '']
+File 2: ['2', '12', 'Q4-C21-Gr-Rl', '', '', '']
+Row 26 differs:
+File 1: ['2', '12', 'Q4-C23-Gr-Rl', '', '', 'if IF, now A', '']
+File 2: ['2', '12', 'Q4-C23-Gr-Rl', '', '', '']
+Row 27 differs:
+File 1: ['2', '13', 'Q4-C21-Gr-Rl', '', 'A', '', '']
+File 2: ['2', '13', 'Q4-C21-Gr-Rl', '', 'A', '']
+Row 28 differs:
+File 1: ['2', '13', 'Q4-C23-Gr-Rl', '', 'A', '', '']
+File 2: ['2', '13', 'Q4-C23-Gr-Rl', '', 'A', '']
+Row 29 differs:
+File 1: ['2', '14', '', '', '', '', '']
+File 2: ['2', '14', '', '', '', '']
+Row 30 differs:
+File 1: ['2', '15', '', '', '', '', '']
+File 2: ['2', '15', '', '', '', '']
+Row 31 differs:
+File 1: ['', '', '', '', '', '', '']
+File 2: ['', '', '', '', '', '']
+Row 32 differs:
+File 1: ['', '', '', '', '', '', '']
+File 2: ['', '', '', '', '', '']
+Row 33 differs:
+File 1: ['3', '1', '', '', '', '', '']
+File 2: ['3', '1', '', '', '', '']
+Row 34 differs:
+File 1: ['3', '2', 'New-Ye-Pr', 'A,IF', '', 'Q2-C33-Ye-Pr', '']
+File 2: ['3', '2', 'New-Ye-Pr', 'A,IF', '', 'Q2-C33-Ye-Pr']
+Row 35 differs:
+File 1: ['3', '3', '', '', '', '', '']
+File 2: ['3', '3', '', '', '', '']
+Row 36 differs:
+File 1: ['3', '4', '', '', '', '', '']
+File 2: ['3', '4', '', '', '', '']
+Row 37 differs:
+File 1: ['3', '5', 'Q3-C32-Gr-Rl', 'A,IF', '', '', '']
+File 2: ['3', '5', 'Q3-C32-Gr-Rl', 'A,IF', '', '']
+Row 38 differs:
+File 1: ['3', '5', 'Q2-C33-Ye-Pr', '', 'IF', '', '']
+File 2: ['3', '5', 'Q2-C33-Ye-Pr', '', 'IF', '']
+Row 39 differs:
+File 1: ['3', '6', 'Q3-C12-Re-Rl', 'A,IF', '', '', '']
+File 2: ['3', '6', 'Q3-C12-Re-Rl', 'A,IF', '', '']
+Row 40 differs:
+File 1: ['3', '6', 'Q3-C32-Gr-Rl', '', 'IF', '', '']
+File 2: ['3', '6', 'Q3-C32-Gr-Rl', '', 'IF', '']
+Row 41 differs:
+File 1: ['3', '7', 'New-Gr-Pr', 'A,IF', '', 'Q2-C21-Gr-Pr', '']
+File 2: ['3', '7', 'New-Gr-Pr', 'A,IF', '', 'Q2-C21-Gr-Pr']
+Row 42 differs:
+File 1: ['3', '7', 'Q3-C12-Re-Rl', '', 'IF', '', '']
+File 2: ['3', '7', 'Q3-C12-Re-Rl', '', 'IF', '']
+Row 43 differs:
+File 1: ['3', '8', '', '', '', '', '']
+File 2: ['3', '8', '', '', '', '']
+Row 44 differs:
+File 1: ['3', '9', 'Q3-C33-Gr-Cy', 'A,IF', '', '', '']
+File 2: ['3', '9', 'Q3-C33-Gr-Cy', 'A,IF', '', '']
+Row 45 differs:
+File 1: ['3', '9', 'Q2-C21-Gr-Pr', '', 'IF', '', '']
+File 2: ['3', '9', 'Q2-C21-Gr-Pr', '', 'IF', '']
+Row 46 differs:
+File 1: ['3', '10', 'Q3-C12-Re-Rl', '', 'A', '', '']
+File 2: ['3', '10', 'Q3-C12-Re-Rl', '', 'A', '']
+Row 47 differs:
+File 1: ['3', '11', 'Q3-C32-Re-Cy', 'A', '', '', '']
+File 2: ['3', '11', 'Q3-C32-Re-Cy', 'A', '', '']
+Row 48 differs:
+File 1: ['3', '11', 'Q3-C33-Gr-Cy', '', 'IF', '', '']
+File 2: ['3', '11', 'Q3-C33-Gr-Cy', '', 'IF', '']
+Row 49 differs:
+File 1: ['3', '11', 'Q3-C23-Re-Cy', 'A', '', '', '']
+File 2: ['3', '11', 'Q3-C23-Re-Cy', 'A', '', '']
+Row 50 differs:
+File 1: ['3', '12', '', '', '', '', '']
+File 2: ['3', '12', '', '', '', '']
+Row 51 differs:
+File 1: ['3', '13', '', '', '', '', '']
+File 2: ['3', '13', '', '', '', '']
+Row 52 differs:
+File 1: ['3', '14', 'New-Bl-Pr', 'A,IF', '', '', '']
+File 2: ['3', '14', 'New-Bl-Pr', 'A,IF', '', '']
+Row 53 differs:
+File 1: ['3', '15', '', '', '', '', '']
+File 2: ['3', '15', '', '', '', '']

@@ -1,0 +1,21 @@
+Row 3 differs:
+File 1: ['2', '1', 'So [the first piece] is going to be [another one of the long boxes in blue], ', 'IF', 'Q2-C32-Bl-Pr', 'New-Bl-Pr becomes Q2-C32-Bl-Pr around U3']
+File 2: ['2', '1', 'So [the first piece] is going to be [another one of the long boxes in blue], ', 'IR', 'Q2-C32-Bl-Pr', 'New-Bl-Pr becomes Q2-C32-Bl-Pr around U3']
+Row 6 differs:
+File 1: ['2', '3', 'Yeah. So [that] goes down horizontally like this at the very left of [it].', 'IF', 'Q2-C32-Bl-Pr', '']
+File 2: ['2', '3', 'Yeah. So [that] goes down horizontally like this at the very left of [it].', 'IR', 'Q2-C32-Bl-Pr', '']
+Row 7 differs:
+File 1: ['2', '4', 'And then, to the right of [that] is [a green cube], like [that piece]. Yeah.', 'IF', 'Q2-C32-Bl-Pr', '']
+File 2: ['2', '4', 'And then, to the right of [that] is [a green cube], like [that piece]. Yeah.', 'IR', 'Q2-C32-Bl-Pr', '']
+Row 8 differs:
+File 1: ['2', '4', 'And then, to the right of [that] is [a green cube], like [that piece]. Yeah.', 'IF', 'New-Gr-Cu', '']
+File 2: ['2', '4', 'And then, to the right of [that] is [a green cube], like [that piece]. Yeah.', 'IR', 'New-Gr-Cu', '']
+Row 32 differs:
+File 1: ['3', '1', "Okay. So it's going to start with [a long rectangle piece of...or a rectangle cube of yellow].", 'IF', 'New-Ye-Pr', '']
+File 2: ['3', '1', "Okay. So it's going to start with [a long rectangle piece of...or a rectangle cube of yellow].", 'IR', 'New-Ye-Pr', '']
+Row 34 differs:
+File 1: ['3', '2', "Yeah. [That's] not here, so look for, like [a long rectangle that's cube].", 'IF', 'Q2-C23-Ye-Pr', '']
+File 2: ['3', '2', "Yeah. [That's] not here, so look for, like [a long rectangle that's cube].", 'IR', 'Q2-C23-Ye-Pr', '']
+Row 47 differs:
+File 1: ['3', '9', 'On top of [the red] is [a long green], just like [the yellow].', 'IF', 'New-Gr-Pr', '']
+File 2: ['3', '9', 'On top of [the red] is [a long green], just like [the yellow].', 'IR', 'New-Gr-Pr', '']

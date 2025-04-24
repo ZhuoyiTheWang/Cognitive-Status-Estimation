@@ -1,0 +1,12 @@
+Row 19 differs:
+File 1: ['2', '11', 'Q4-C11-Re-Pr', 'A', '', 'Possibly IF']
+File 2: ['2', '11', 'Q4-C11-Re-Pr', 'A', '', '']
+Row 20 differs:
+File 1: ['2', '11', 'Q2-C32-Bl-Pr', 'A', '', 'Possibly IF']
+File 2: ['2', '11', 'Q2-C32-Bl-Pr', 'A', '', '']
+Row 25 differs:
+File 1: ['2', '12', 'Q4-C21-Gr-Rl', '', '', 'if IF, now A']
+File 2: ['2', '12', 'Q4-C21-Gr-Rl', '', '', '']
+Row 26 differs:
+File 1: ['2', '12', 'Q4-C23-Gr-Rl', '', '', 'if IF, now A']
+File 2: ['2', '12', 'Q4-C23-Gr-Rl', '', '', '']

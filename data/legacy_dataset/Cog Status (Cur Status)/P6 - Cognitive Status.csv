@@ -1,0 +1,81 @@
+Quadrant,Utterance,object,Notes,Bound to,Current Status
+2.0,1.0,New-Gr,,Q1-C33-Gr-Cu (in 2-4),A
+2.0,1.0,Q4-C11-Gr-Cu,,,A
+2.0,1.0,New-Ye-Cu,,Q2-C12-Ye-Cu (in 2-4,A
+2.0,1.0,Q4-C33-Ye-Cu,,,A
+2.0,2.0,New-Bl-Rec,,Q2-C32-Bl-Wr (in 2-4),IF
+2.0,3.0,Q2-C32-Bl-Wr,,,IF
+2.0,3.0,Q2-C31-Bl-Tr,,,A
+2.0,3.0,Q4-C11-Gr-Cu,,,F
+2.0,3.0,Q4-C33-Ye-Cu,,,F
+2.0,4.0,Q2-C12-Ye-Cu,,,A
+2.0,4.0,Q1-C33-Gr-Cu,,,A
+2.0,4.0,Q2-C31-Bl-Tr,comes out of 'Activated' early because it is in a different quad,,F
+2.0,5.0,Q1-C33-Gr-Cu,,,IF
+2.0,5.0,Q2-C32-Bl-Wr,,,A
+2.0,6.0,Q2-C12-Ye-Cu,,,IF
+2.0,6.0,Q1-C33-Gr-Cu,,,A
+2.0,7.0,Q4-C12-Re-Tr,,,IF
+2.0,7.0,Q2-C12-Ye-Cu,,,A
+2.0,8.0,Q4-C11-Gr-Cu,,,IF
+2.0,8.0,Q4-C12-Re-Tr,,,A
+2.0,9.0,Q4-C33-Ye-Cu,,,IF
+2.0,9.0,Q4-C11-Gr-Cu,,,A
+2.0,9.0,Q2-C32-Bl-Wr,,,F
+2.0,10.0,Q4-C23-Gr-Tr,,,IF
+2.0,10.0,Q4-C33-Ye-Cu,,,A
+2.0,10.0,Q4-C12-Re-Tr,,,F
+2.0,10.0,Q1-C33-Gr-Cu,,,F
+2.0,10.0,Q2-C12-Ye-Cu,,,F
+2.0,11.0,New-Gr-Ar,,Q3-C11-Gr-Ar (2-12),IF
+2.0,11.0,Q4-C12-Gr-Ar,,,A
+2.0,11.0,Q4-C23-Gr-Tr,,,A
+2.0,11.0,Q4-C11-Gr-Cu,,,F
+2.0,11.0,Q4-C33-Ye-Cu,,,F
+2.0,12.0,Q4-C11-Re-Wr,,,A
+2.0,12.0,Q3-C11-Gr-Ar,,,A
+2.0,12.0,Q4-C23-Gr-Tr,,,F
+2.0,13.0,New-Ye-Wr,,Q3-C21-Ye-Wr (2-14),IF
+2.0,14.0,,,,
+2.0,15.0,Q4-C31-Re-Tr,,,IF
+2.0,15.0,Q4-C11-Re-Wr,,,F
+2.0,15.0,Q3-C21-Ye-Wr,,,A
+,,,,,
+3.0,2.0,New-Ye-Pr,,Q4-C21-Ye-Pr in 3-4,A
+3.0,2.0,New-Gr-Pr,,Q2-C21-Gr-Pr in 3-4,A
+3.0,3.0,New-Re-Pr,,,A
+3.0,4.0,New-Re-Ts,,,IF
+3.0,4.0,Q4-C31-Gr-Ts,2-to-1 Disagrement (one coder beived not Activated),,A
+3.0,4.0,Q4-C32-Re-Ts,,,A
+3.0,4.0,Q2-C11-Bl-Ts,,,A
+3.0,4.0,Q3-C12-Re-Ts,,,A
+3.0,5.0,New-Ye-Cu,,,IF
+3.0,5.0,New-Re-Ts,,,A
+3.0,5.0,Q4-C31-Gr-Ts,,,F
+3.0,5.0,Q4-C32-Re-Ts,,,F
+3.0,5.0,Q2-C11-Bl-Ts,,,F
+3.0,5.0,Q3-C12-Re-Ts,,,F
+3.0,6.0,New-Bl-Cy,,,IF
+3.0,6.0,New-Ye-Cu,,,A
+3.0,7.0,New-Bl-Cy,,,A
+3.0,8.0,Q3-C32-Bl-Rl,,,IF
+3.0,9.0,,,,
+3.0,10.0,Q3-C12-Re-Rl,,,IF
+3.0,10.0,Q3-C32-Bl-Rl,,,A
+3.0,11.0,Q3-C12-Re-Rl,,,A
+3.0,11.0,Q4-C21-Ye-Pr,,,IF
+3.0,12.0,,,,
+3.0,13.0,Q2-C21-Gr-Pr,,,IF
+3.0,13.0,Q3-C32-Bl-Rl,,,F
+3.0,13.0,Q3-C12-Re-Rl,,,F
+3.0,13.0,Q4-C21-Ye-Pr,,,A
+3.0,14.0,Q3-C33-Gr-Cy,,,IF
+3.0,14.0,Q2-C21-Gr-Pr,,,A
+3.0,14.0,New-Re-Pr,May have gotten de-activated elsewhere,,F
+3.0,14.0,New-Re-Ts,,,F
+3.0,14.0,New-Ye-Cu,,,F
+3.0,14.0,New-Bl-Cy,,,F
+3.0,15.0,Q3-C23-Re-Cu,,,A
+3.0,15.0,Q3-C32-Re-Cu,,,A
+3.0,15.0,Q3-C33-Gr-Cy,,,A
+3.0,15.0,Q4-C21-Ye-Pr,,,F

@@ -1,0 +1,51 @@
+Quadrant,Utterance Number,Reference,Gesture Used,Object referenced,grammatical role
+2.0,1.0,Okay. Okay. Do you see [this yellow cube] and [that green cube],DP,Q4-C33-Ye-Cu,dobj
+2.0,1.0,Okay. Okay. Do you see [this yellow cube] and [that green cube],DS,Q4-C11-Gr-Cu,conj
+2.0,2.0,put [them] next to [each other].,N,Q4-C33-Ye-Cu,dobj
+2.0,2.0,put [them] next to [each other].,N,Q4-C11-Gr-Cu,dobj
+2.0,2.0,put [them] next to [each other].,N,,
+2.0,3.0,"Then [these two green things], stack up with [them], like oriented vertically together.",DP,Q4-C21-Gr-Rl,nsubj
+2.0,3.0,"Then [these two green things], stack up with [them], like oriented vertically together.",DP,Q4-C23-Gr-Rl,nsubj
+2.0,4.0,Perfect. And then put [them] other side. Well done.,N,Q4-C21-Gr-Rl,NI
+2.0,4.0,Perfect. And then put [them] other side. Well done.,N,Q4-C23-Gr-Rl,NI
+2.0,5.0,Alright. Do you see [the red block] over there?,DP,Q4-C11-Re-Pr,dobj
+2.0,6.0,We need [that] but blue {points up}.,N,New-Bl-Pr,dobj
+2.0,6.0,We need [that] but blue {points up}.,A,,
+2.0,7.0,Awesome Possum.,N,,
+2.0,8.0,"Put [that leg] on that side to the left of [the green cube], just like that.",N,Q2-C32-Bl-Pr,dobj
+2.0,8.0,"Put [that leg] on that side to the left of [the green cube], just like that.",A,Q4-C11-Gr-Cu,pobj
+2.0,9.0,And you see [the red thing] I was talking about,DP,Q4-C11-Re-Pr,dobj
+2.0,10.0,put [that] right on top of [the blue thing]. ,N,Q4-C11-Re-Pr,dobj
+2.0,10.0,put [that] right on top of [the blue thing]. ,N,Q2-C32-Bl-Pr,pobj
+2.0,11.0,Perfect,N,,
+2.0,12.0,"[The green half circle], put [that] with the circular bit facing up, on top of [the red thing]. ",DS,Q4-C12-Gr-Ar,nsubj
+2.0,12.0,"[The green half circle], put [that] with the circular bit facing up, on top of [the red thing]. ",N,Q4-C11-Re-Pr,nsubj
+2.0,13.0,Perfect,N,,
+2.0,14.0,"[Red triangle], flat side down on top of [the two green things]. ",DP,Q4-C32-Re-Ts,NI
+2.0,14.0,"[Red triangle], flat side down on top of [the two green things]. ",DS,Q4-C21-Gr-Rl,pobj
+2.0,14.0,"[Red triangle], flat side down on top of [the two green things]. ",DS,Q4-C23-Gr-Rl,pobj
+2.0,15.0,Awesome Possum.,N,,
+,,,N,,
+3.0,1.0,How're you feeling so far? ,N,,
+3.0,2.0,Five thumbs up. Heck yeah.,N,,
+3.0,3.0,Okay.,N,,
+3.0,4.0,You see [the long red] and [green piece] here. ,N,Q3-C12-Re-Rl,NI
+3.0,4.0,You see [the long red] and [green piece] here. ,N,Q3-C32-Gr-Rl,NI
+3.0,5.0,Put [the red piece] on top of [the green piece]. ,N,Q3-C12-Re-Rl,dobj
+3.0,5.0,Put [the red piece] on top of [the green piece]. ,N,Q3-C32-Gr-Rl,pobj
+3.0,6.0,Perfect.,N,,
+3.0,7.0,"And [this Green cylinder here], put on the rightmost part of [the red piece]. ",N,Q3-C33-Gr-Cy,nsubj
+3.0,7.0,"And [this Green cylinder here], put on the rightmost part of [the red piece]. ",N,Q3-C12-Re-Rl,pobj
+3.0,8.0,Perfect.,N,,
+3.0,9.0,"We need a, kind of, [long green rectangle], ",N,New-Gr-Pr,NI
+3.0,10.0,or [the fat one]. You know what I'm saying? ,N,New-Gr-Pr,NI
+3.0,11.0,"Yeah, yeah, Perfect.",N,,
+3.0,12.0,"Put [that] just to the left of [the cylinder], facing down. Perfect.",N,Q2-C21-Gr-Pr,dobj
+3.0,12.0,"Put [that] just to the left of [the cylinder], facing down. Perfect.",N,Q3-C33-Gr-Cy,pobj
+3.0,13.0,You see [these two red blocks]? ,N,Q3-C32-Re-Cu,dobj
+3.0,13.0,You see [these two red blocks]? ,N,Q3-C23-Re-Cu,dobj
+3.0,14.0,Just put [those] on top of [the green block] -- ,N,Q3-C32-Re-Cu,dobj
+3.0,14.0,Just put [those] on top of [the green block] -- ,N,Q3-C23-Re-Cu,dobj
+3.0,14.0,Just put [those] on top of [the green block] -- ,N,Q2-C21-Gr-Pr,pobj
+3.0,15.0,"I'm sorry. The... [this square block] and [that square block]. Sorry, my mistake.",N,Q3-C32-Re-Cu,NI
+3.0,15.0,"I'm sorry. The... [this square block] and [that square block]. Sorry, my mistake.",N,Q3-C23-Re-Cu,NI

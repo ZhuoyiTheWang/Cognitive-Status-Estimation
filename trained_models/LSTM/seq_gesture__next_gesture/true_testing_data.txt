@@ -1,0 +1,440 @@
+Trial: P6
+Quadrant: 3
+Object: Q2-C21-Gr-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'A', 'Gesture': 'IR'}
+  {'Utterance': 3, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'IF', 'Gesture': 'DS'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 3
+Object: Q1-C11-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'A', 'Gesture': 'IR'}
+  {'Utterance': 3, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'IR'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P6
+Quadrant: 2
+Object: Q4-C23-Gr-Tr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'IF', 'Gesture': 'DP'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 3
+Object: Q3-C32-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'IF', 'Gesture': 'DS'}
+  {'Utterance': 2, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'F', 'Gesture': 'DL'}
+  {'Utterance': 10, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q2-C12-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 2
+Object: Q4-C33-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'DS'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q4-C23-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q4-C33-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P1
+Quadrant: 2
+Object: Q4-C32-Re-Ts
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'IF', 'Gesture': 'DP'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q4-C11-Gr-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'IF', 'Gesture': 'DS'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P11
+Quadrant: 2
+Object: Q2-C13-Bl-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'IF', 'Gesture': 'DS'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 2
+Object: Q2-C13-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P2
+Quadrant: 2
+Object: Q2-C32-Bl-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P5
+Quadrant: 2
+Object: Q2-C32-Bl-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'IF', 'Gesture': 'IR'}
+  {'Utterance': 2, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P6
+Quadrant: 2
+Object: Q3-C11-Gr-Ar
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P5
+Quadrant: 3
+Object: Q3-C32-Re-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'DP'}
+  {'Utterance': 9, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'IF', 'Gesture': 'DP'}
+  {'Utterance': 15, 'Current Status': 'IF', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 2
+Object: Q4-C11-Re-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'UI', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 5, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P11
+Quadrant: 2
+Object: Q4-C21-Re-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'A', 'Gesture': 'IR'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'IF', 'Gesture': 'IR'}
+  {'Utterance': 5, 'Current Status': 'IF', 'Gesture': 'IR'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P8
+Quadrant: 3
+Object: Q3-C31-Bl-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'IF', 'Gesture': 'DS'}
+  {'Utterance': 10, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P11
+Quadrant: 3
+Object: Q3-C21-Re-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'DS'}
+--------------------------------------------------
+Trial: P5
+Quadrant: 3
+Object: Q3-C32-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'IF', 'Gesture': 'DS'}
+  {'Utterance': 2, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'IF', 'Gesture': 'N'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'A', 'Gesture': 'N'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 3
+Object: Q3-C12-Re-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 2, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 3, 'Current Status': 'IF', 'Gesture': 'DS'}
+  {'Utterance': 4, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 5, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 6, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 7, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 8, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 9, 'Current Status': 'A', 'Gesture': 'DL'}
+  {'Utterance': 10, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 11, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 12, 'Current Status': 'A', 'Gesture': 'DS'}
+  {'Utterance': 13, 'Current Status': 'A', 'Gesture': 'N'}
+  {'Utterance': 14, 'Current Status': 'F', 'Gesture': 'N'}
+  {'Utterance': 15, 'Current Status': 'F', 'Gesture': 'N'}
+--------------------------------------------------

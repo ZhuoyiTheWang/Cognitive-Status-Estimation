@@ -1,0 +1,58 @@
+Quadrant,Utterance,object,Bound to,Notes,Current Status
+2.0,1.0,Q4-C23-Bl-Pr,,,IF
+2.0,2.0,,,,
+2.0,3.0,,,,
+2.0,4.0,Q4-C11-Re-Pr,,,IF
+2.0,4.0,Q4-C23-Bl-Pr,,,A
+2.0,5.0,Q4-C11-Re-Pr,,,A
+2.0,5.0,New-Gr-Cu,Q1-C33-Gr-Cu in 2-8,,A
+2.0,5.0,Q4-C11-Gr-Cu,,Not sure if IF,IF
+2.0,6.0,Q4-C11-Gr-Cu,,,A
+2.0,6.0,New-Gr-Cu,,,IF
+2.0,7.0,New-Ye-Cu,Q2-C12-Ye-Cu in 2-8,,IF
+2.0,7.0,New-Gr-Cu,,,A
+2.0,8.0,Q2-C12-Ye-Cu,,,A
+2.0,8.0,,,2 cubes together are IF,
+2.0,8.0,Q4-C23-Bl-Pr,,,F
+2.0,8.0,Q4-C11-Re-Pr,,,F
+2.0,9.0,Q4-C33-Ye-Cu,,2 cubes together are IF,A
+2.0,10.0,Q4-C21-Gr-Rl,,,A
+2.0,10.0,Q4-C23-Gr-Rl,,,A
+2.0,11.0,,,,
+2.0,12.0,Q4-C11-Gr-Cu,,,F
+2.0,12.0,Q1-C33-Gr-Cu,,,F
+2.0,12.0,Q2-C12-Ye-Cu,,,F
+2.0,12.0,Q4-C33-Ye-Cu,,,F
+2.0,13.0,Q4-C32-Re-Ts,,,IF
+2.0,14.0,,,,
+2.0,15.0,New-Re-Rl,,,IF
+2.0,15.0,Q4-C32-Re-Ts,,,A
+2.0,15.0,Q4-C13-Re-Rs,,,A
+,,,,,
+3.0,1.0,Q3-C32-Gr-Rl,,,IF
+3.0,2.0,,,,
+3.0,3.0,Q3-C12-Re-Rl,,,IF
+3.0,3.0,Q3-C32-Gr-Rl,,,A
+3.0,4.0,New-Ye-Pr,Q2-C23-Ye-Pr in 9,,IF
+3.0,4.0,Q3-C12-Re-Rl,,,A
+3.0,5.0,,,,
+3.0,6.0,New-Bl-Pr,,,A
+3.0,7.0,,,,
+3.0,8.0,,,,
+3.0,9.0,Q2-C23-Ye-Pr,,Block becomes IF when Learner only brings the yellow prism back,
+3.0,9.0,New-Bl-Pr,,,F
+3.0,9.0,Q3-C32-Gr-Rl,,,F
+3.0,10.0,Q3-C13-Bl-Cu,,,A
+3.0,10.0,Q3-C22-Bl-Cu,,,A
+3.0,10.0,Q2-C23-Ye-Pr,,,A
+3.0,11.0,New-Gr-Pr,Q2-C21-Gr-Pr in 3-12,,A
+3.0,11.0,New-Re-Pr,Q2-C23-Re-Pr in 3-12,,A
+3.0,12.0,Q2-C21-Gr-Pr,,,IF
+3.0,13.0,,,,
+3.0,14.0,Q3-C33-Gr-Cy,,,IF
+3.0,14.0,Q3-C12-Re-Rl,,,F
+3.0,14.0,Q2-C21-Gr-Pr,,,A
+3.0,15.0,Q3-C32-Re-Cu,,,A
+3.0,15.0,Q3-C23-Re-Cu,,,A
+3.0,15.0,Q2-C23-Ye-Pr,,,F
+3.0,15.0,Q3-C33-Gr-Cy,,,A

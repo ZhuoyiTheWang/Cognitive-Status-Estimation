@@ -1,0 +1,27 @@
+Quadrant,Utterance,object,in,out,,Bound to
+2,1,New-Bl-Pr,"A,IF",,,Q2-C32-Bl-Pr in U3
+2,2,,,,,
+2,3,,,,,
+2,4,Q2-C32-Bl-Pr,,IF,,
+2,4,Q4-C11-Gr-Cu,"A,IF",,,
+2,5,,,,,
+2,6,Q4-C33-Ye-Cu,A,,,
+2,6,Q4-C11-Gr-Cu,,IF,,
+2,7,New-Gr-Cu,A,,,Q1-C33-Gr-Cu in U11
+2,7,New-Ye-Cu,A,,,Q2-C12-Ye-Cu in U11
+2,8,Q2-C32-Bl-Pr,,A,,
+2,9,,,,,
+2,10,,,,,
+2,11,,,,,
+2,12,Q4-C21-Gr-Rl,A,,,
+2,12,Q4-C23-Gr-Rl,A,,,
+2,13,,,,,
+2,14,Q1-C33-Gr-Cu,,A,,
+2,14,Q2-C12-Ye-Cu,,A,,
+2,14,Q2-C32-Bl-Pr,A,,,
+2,14,Q4-C33-Ye-Cu,,A,,
+2,14,Q4-C11-Gr-Cu,,A,,
+2,14,New-Re-Pr,"A,IF",,,Q4-C11-Re-Pr in U15
+2,15,,,,,
+,,,,,,
+3,1,,,,,

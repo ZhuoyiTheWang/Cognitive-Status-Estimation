@@ -1,0 +1,70 @@
+Quadrant,Utterance,object,Bound to,Unnamed: 6,Current Status
+2.0,1.0,New-Gr-Cu1,Q3-C32-Gr-Cu in 2-2,,A
+2.0,1.0,New-Gr-Cu2,Q2-C31-Gr-Cu in 2-9,,A
+2.0,1.0,New-Bl-Pr,Q2-C13-Bl-Pr in 2-2,,A
+2.0,1.0,New-Re-Rl,Q3-C33-Re-Rl in 2-2,,A
+2.0,2.0,Q4-C32-Bl-Rl,,,A
+2.0,1.0,New-Ye-Rl,,,A
+2.0,1.0,Q4-C22-Ye-Cu,,,A
+2.0,1.0,Q4-C21-Re-Pr,,,A
+2.0,2.0,Q4-C21-Re-Pr,,,F
+2.0,2.0,Q4-C32-Bl-Rl,,,F
+2.0,2.0,Q4-C22-Ye-Cu,,,F
+2.0,2.0,New-Ye-Rl,,,F
+2.0,2.0,New-Gr-Cu2,Q2-C31-Gr-Cu in 2-9,,F
+2.0,3.0,Q2-C13-Bl-Pr,,,IF
+2.0,4.0,Q4-C21-Re-Pr,,IF for Instructor,IF
+2.0,4.0,Q2-C13-Bl-Pr,,,A
+2.0,4.0,Q3-C33-Re-Rl,,IF for Learner,IF
+2.0,5.0,Q3-C33-Re-Rl,,IF was only for Learner,A
+2.0,5.0,Q4-C21-Re-Pr,,Now IF for Learner also,
+2.0,6.0,Q4-C21-Re-Pr,,,A
+2.0,6.0,New-Gr-Cu2,Q2-C31-Gr-Cu in 2-9,,A
+2.0,7.0,,,"As unit green cubes are IF, but not individually",
+2.0,7.0,Q2-C13-Bl-Pr,,,F
+2.0,7.0,Q3-C33-Re-Rl,,,F
+2.0,8.0,New-Gr-Cu2,Q2-C31-Gr-Cu in 2-9,,IF
+2.0,9.0,Q2-C31-Gr-Cu,,,A
+2.0,9.0,Q4-C12-Ye-Cu,,,A
+2.0,9.0,Q4-C21-Re-Pr,,,F
+2.0,10.0,Q2-C31-Gr-Cu,,,F
+2.0,10.0,Q3-C32-Gr-Cu,,,F
+2.0,10.0,Q4-C12-Gr-Rl,,"IF together, A seperate",A
+2.0,10.0,Q4-C13-Gr-Rl,,"IF together, A seperate",A
+2.0,11.0,,,,
+2.0,12.0,Q4-C12-Ye-Cu,,,F
+2.0,12.0,Q4-C22-Ye-Cu,,,F
+2.0,13.0,,,,
+2.0,14.0,Q4-C11-Gr-Ar,,"IF together, A seperate",A
+2.0,14.0,Q4-C23-Gr-Ar,,"IF together, A seperate",A
+2.0,14.0,Q4-C12-Gr-Rl,,,F
+2.0,14.0,Q4-C13-Gr-Rl,,,F
+2.0,15.0,,,,
+,,,,,
+3.0,1.0,Q3-C23-Ye-Pr,,,IF
+3.0,2.0,Q3-C22-Gr-Rl,,,IF
+3.0,2.0,Q3-C23-Ye-Pr,,,A
+3.0,3.0,Q3-C12-Re-Rl,,,IF
+3.0,3.0,Q3-C22-Gr-Rl,,,A
+3.0,4.0,Q3-C31-Gr-Pr,,,IF
+3.0,4.0,Q3-C12-Re-Rl,,,A
+3.0,5.0,Q3-C22-Gr-Rl,,,F
+3.0,6.0,Q3-C31-Gr-Pr,,,A
+3.0,7.0,Q3-C12-Re-Rl,,,F
+3.0,7.0,Q3-C11-Bl-Cu,,"IF together, A seperate",A
+3.0,7.0,Q3-C13-Bl-Cu,,"IF together, A seperate",A
+3.0,8.0,Q3-C21-Re-Cu,,"IF together, A seperate",A
+3.0,8.0,Q3-C31-Re-Cu,,"IF together, A seperate",A
+3.0,8.0,Q3-C23-Ye-Pr,,,F
+3.0,9.0,,,,
+3.0,10.0,,,,
+3.0,11.0,Q3-C31-Gr-Pr,,,F
+3.0,12.0,New-Gr-Cy,Q2-C32-Gr-Cy in 2-14,,A
+3.0,12.0,New-Re-Pr,Q4-C22-Re-Pr in 2-14,,A
+3.0,12.0,Q3-C31-Gr-Pr,,,A
+3.0,13.0,,,,
+3.0,14.0,Q2-C32-Gr-Cy,,,IF
+3.0,14.0,Q3-C11-Bl-Cu,,,F
+3.0,14.0,Q3-C13-Bl-Cu,,,F
+3.0,15.0,Q2-C32-Gr-Cy,,,A
+3.0,15.0,Q4-C22-Re-Pr,,,IF

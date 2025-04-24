@@ -1,0 +1,24 @@
+Row 8 differs:
+File 1: ['2', '4', "And we'll put [the blue one] just right straight underneath [that one].", 'IF', 'New-Bl-Pr']
+File 2: ['2', '4', "And we'll put [the blue one] just right straight underneath [that one].", 'IR', 'New-Bl-Pr']
+Row 32 differs:
+File 1: ['3', '2', 'And then [a long, a long green one] and [a long red].', 'IF', 'New-Gr-Rl']
+File 2: ['3', '2', 'And then [a long, a long green one] and [a long red].', 'IR', 'New-Gr-Rl']
+Row 33 differs:
+File 1: ['3', '2', 'And then [a long, a long green one] and [a long red].', 'IF', 'New-Re-Rl']
+File 2: ['3', '2', 'And then [a long, a long green one] and [a long red].', 'IR', 'New-Re-Rl']
+Row 37 differs:
+File 1: ['3', '4', 'So [a fat, yellow rectangle], [a fat green rectangle.], [A fat blue rectangle], actually, too.', 'IF', 'New-Ye-Pr, Q2-C23-Ye-Pr']
+File 2: ['3', '4', 'So [a fat, yellow rectangle], [a fat green rectangle.], [A fat blue rectangle], actually, too.', 'IR', 'New-Ye-Pr, Q2-C23-Ye-Pr']
+Row 38 differs:
+File 1: ['3', '4', 'So [a fat, yellow rectangle], [a fat green rectangle.], [A fat blue rectangle], actually, too.', 'IF', 'New-Gr-Pr, Q2-C21-Gr-Pr']
+File 2: ['3', '4', 'So [a fat, yellow rectangle], [a fat green rectangle.], [A fat blue rectangle], actually, too.', 'IR', 'New-Gr-Pr, Q2-C21-Gr-Pr']
+Row 42 differs:
+File 1: ['3', '5', 'And those in {gesture} [a long, long red] and [green].', 'IF', 'New-Gr-Rl, Q1-C11-Gr-Rl']
+File 2: ['3', '5', 'And those in {gesture} [a long, long red] and [green].', 'IR', 'New-Gr-Rl, Q1-C11-Gr-Rl']
+Row 45 differs:
+File 1: ['3', '8', 'So [there fat yellow rectangle] go straight up.', 'IF', 'Q2-C23-Ye-Pr']
+File 2: ['3', '8', 'So [there fat yellow rectangle] go straight up.', 'IR', 'Q2-C23-Ye-Pr']
+Row 51 differs:
+File 1: ['3', '12', "Exactly. And if you want to move [it], so [it's] like facing you, that's fine. ", 'IF', 'Whole Building']
+File 2: ['3', '12', "Exactly. And if you want to move [it], so [it's] like facing you, that's fine. ", 'IR', 'Whole Building']

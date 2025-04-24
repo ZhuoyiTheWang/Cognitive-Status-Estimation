@@ -1,0 +1,108 @@
+,Quadrant,Utterance Number,Reference,Unnamed: 3,Object referenced,Gesture Used,Liguistic Topic (Mentioned or Not Mentioned,Notes,Unnamed: 8,grammatical role
+0,2.0,1.0,Okay. We're going to need a [second green] {I gestures to obj} and a second yellow cube {I gestures to obj}.,Y,Q1-C33-Gr-Cu,N,M,,,NI
+1,2.0,1.0,Okay. We're going to need a second green {I gestures to obj} and a second yellow cube {I gestures to obj}.,Y,Q4-C11-Gr-Cu,DS,N,,,NI
+2,2.0,1.0,Okay. We're going to need a second green {I gestures to obj} and a [second yellow cube] {I gestures to obj}.,Y,Q2-C12-Ye-Cu,N,M,,,NI
+3,2.0,1.0,Okay. We're going to need a second green {I gestures to obj} and a second yellow cube {I gestures to obj}.,Y,Q4-C33-Ye-Cu,DP,N,,,NI
+4,2.0,2.0,And then also it blue longer rectangle [piece]. The same thickness.,Y,New-Bl-Tr,IR ,M,,,NI
+5,2.0,3.0,"{L presents obj 1 and obj 2} Yeah, that .",Y,Q2-C32-Bl-Wr,N,N,,,NI
+6,2.0,3.0,"{L presents obj 1 and obj 2} Yeah, that .",Y,Q2-C31-Bl-Tr,N,N,,,NI
+7,2.0,3.0,"{L presents obj 1 and obj 2} Yeah, that .",Y,Q2-C32-Bl-Wr,DP,M,,,NI
+8,2.0,4.0,Start with [the blue piece] right there.,Y,Q2-C32-Bl-Wr,DS,M,,,pobj
+9,2.0,5.0,Then [green cube] next to it to the right.,Y,Q1-C33-Gr-Cu,DP,M,,,NI
+10,2.0,5.0,Then green cube next to [it] to the right.,Y,Q2-C32-Bl-Wr,N ,M,,,pobj
+11,2.0,6.0,And [yellow cube] next to that.,Y,Q2-C12-Ye-Cu,DP,M,,,NI
+12,2.0,6.0,And yellow cube next to [that].,Y,Q1-C33-Gr-Cu,A,M,,,pobj
+13,2.0,7.0,"And then, [a red thing] {L points to obj}, the longer .... Yeah. On top of the blue.",Y,Q4-C11-Re-Wr,"IR, DP",M,,,NI
+14,2.0,7.0,"And then, a red thing {L points to obj}, the longer ... Yeah. On top of the blue.",Y,Q4-C12-Re-Tr,N,N,L goes for wrong block and I correctes,,NI
+15,2.0,7.0,"And then, a red thing {L points to obj}, the longer ... Yeah. On top of [the blue].",Y,Q2-C32-Bl-Wr,"IR, DS",M,,,NI
+16,2.0,8.0,And then [another green] on top of the green.,Y,Q4-C11-Gr-Cu,A,M,,,NI
+17,2.0,8.0,And then another green on top of [the green].,Y,Q1-C33-Gr-Cu,A,M,,,pobj
+18,2.0,9.0,And [another yellow] on top of the yellow.,Y,Q4-C33-Ye-Cu,A,M,,,NI
+19,2.0,9.0,And another yellow on top of [the yellow].,Y,Q2-C12-Ye-Cu,A,M,,,NI
+20,2.0,10.0,"And then on the right of [these], stack  [point to obj]. Yeah. Perfectly like this.",Y,"Q4-C11-Re-Wr, Q2-C32-Bl-Wr, Q4-C11-Gr-Cu, Q1-C33-Gr-Cu, Q4-C33-Ye-Cu, Q2-C12-Ye-Cu",DL,M,Every cube in the construct is mentioed,,pobj
+21,2.0,10.0,"And then on the right of these, stack [point to obj]. Yeah. Perfectly like this.",Y,Q4-C23-Gr-Tr,DP,N,,,dobj
+22,,,,,,,,,,
+23,2.0,11.0,Try to find another [green arch]  [point to obj],Y,Q3-C11-Gr-Ar,N,,,,NI
+24,2.0,11.0,Try to find another green arch [point to obj].,Y,Q4-C12-Gr-Ar,DS,,,,NI
+25,2.0,12.0,"And on top of [the red], make the circle. Yeah.",Y,Q4-C11-Re-Wr,DS,,,,NI
+26,2.0,12.0,"And on top of the red, make [the circle]. Yeah.",N,,,,,,
+27,2.0,13.0,"I need [another yellow], like one of these types of prisim.",Y,Q3-C21-Ye-Wr,IR,,,,NI
+28,2.0,13.0,"I need another yellow, like one of [these] types of prisim.",Y,Q4-C11-Re-Wr,DP,,,,NI
+29,2.0,14.0,"And put [that] to the right of the, the arches. Yes.",Y,Q3-C21-Ye-Wr,N,,,,dobj
+30,,,,,,,,,,
+31,2.0,14.0,"And put that to the right of the, [the arches]. Yes.",Y,"Q4-C12-Gr-Ar, Q3-C11-Gr-Ar",DS,,,,NI
+32,2.0,15.0,"And then [one the red ones], I think that size to the right of the yellow piece.",Y,Q4-C31-Re-Tr,DP,,,,NI
+33,2.0,,,,,,,,,
+34,2.0,15.0,"And then one of the red one, I think that size to the right of the [yellow piece].",Y,Q3-C21-Ye-Wr,DS,,,,NI
+35,2.0,16.0,And find [a yellow piece] that looks the same as the red prism. OQ,Y,Q3-C21-Ye-Wr,N,,,,dobj
+36,2.0,16.0,And find a yellow piece that looks the same as [the red prism]. OQ,Y,Q4-C13-Re-Tr,DS,,Is that awide rectangle?,Q1-C13-Ye-Wr,pobj
+37,2.0,17.0,"Yeah. We just have random, a bunch of hats and decorations.",N,,,,,,
+38,2.0,18.0,"So, [a red], green.",Y,New-Re,,,,,NI
+39,2.0,18.0,"So, a red, [green].",Y,Q1-C33-Gr-Cu,,,,,NI
+40,2.0,19.0,"And find a [second red] {I gestures to obj} and blue {I gestures to obj}, one of the triangles",Y,New-Re-St,N,,,,N
+41,2.0,19.0,"And find a second red {I gestures to obj} and blue {I gestures to obj}, one of the triangles",Y, ,A,,,,NI
+42,2.0,19.0,"And find a second red {I gestures to obj} and [blue] {I gestures to obj}, one of the triangles",Y,New-Bl-St,N,,,,NI
+43,2.0,19.0,"And find a second red {I gestures to obj} and blue {I gestures to obj}, one of the triangles",Y,Q4-C31-Gr-St,DS,,,,NI
+44,2.0,19.0,"And find a second red {I gestures to obj} and blue {I gestures to obj}, one of [the triangles]",Y,"Q4-C31-Gr-St, Q4-C32-Re-St",DL,,Ambigous DL vs DS,,pobj
+45,2.0,20.0, ,N,,,,,,
+46,2.0,20.0,So exactly like this setup on top of [them] from left to right.,Y,"Q4-C12-Gr-Ar, Q3-C11-Gr-Ar,  Q1-C13-Ye-Wr, Q4-C31-Re-Tr, Q3-C21-Ye-Wr",DS,,Ambigous DL vs DS,,pobj
+47,,,,,,,,,,
+48,2.0,21.0,"It's going to be [a red one], a blue one, and a green one. And on this piece a red one.",Y,Q3-C12-Re-Ts,N,,,,NI
+49,2.0,21.0,"It's going to be a red one, [a blue one], and a green one. And on this piece a red one.",Y,Q2-C11-Bl-Ts,N,,,,NI
+50,2.0,21.0,"It's going to be a red one, a blue one, and [a green one]. And on this piece a red one.",Y,Q4-C31-Gr-Ts,N,,,,NI
+51,2.0,21.0,"It's going to be a red one, a blue one, and a green one. And on [this piece] a red one.",Y,"Q4-C23-Gr-Rl, Q4-C21-Gr-Rl",N,,,,pobj
+52,2.0,21.0,"It's going to be a red one, a blue one, and a green one. And on this piece [a red one].",Y,Q4-C32-Re-Ts,N,,,,NI
+53,2.0,22.0,And the final thing is to put [this cylinder] inside of the circle.,Y,Q3-C21-Bl-Cy,DP,,,,dobj
+54,2.0,22.0,And the final thing is to put this cylinder inside of [the circle].,N,,N,,,,pobj
+55,2.0,23.0,That's it.,N,,,,,,
+56,,,,,,,,,,
+57,3.0,1.0,Its going to be [a tall one.],Y,New,N,Not a reference (mistaken codes),,,NI
+58,3.0,2.0,"[The yellow], bring the yellow prism and green priss.",Y,New-Ye,N,,,,NI
+59,3.0,2.0,"The yellow, bring [the yellow prism] and green priss.",Y,Q4-C21-Ye-Pr,IR,,,,dobj
+60,3.0,2.0,"The yellow, bring the yellow prism and [green priss.]",Y,Q2-C21-Gr-Pr,IR,,,,NI
+61,3.0,3.0,And also [a red prism.],Y,New-Re-Pr,N,,,,NI
+62,3.0,4.0,"Perfect. You need a [red, small triangle], like the hats we used before. ",Y,New-Re-Ts,IR,,,,NI
+63,3.0,4.0,"Perfect. You need a red, small triangle, like [the hats] we used before.",Y,"Q4-C31-Gr-Ts, Q4-C32-Re-Ts,Q2-C11-Bl-Ts, Q3-C12-Re-Ts",A,,,,pobj
+64,3.0,5.0,[A yellow cube]. ,Y,Q2-C12-Ye-Cu,N,,,,NI
+65,3.0,6.0,And [a blue cylinder]. ,Y,New-Bl-Cy,N,,,,NI
+66,3.0,7.0,I think that should be it,,,,,,,
+67,3.0,8.0,Right. Start with [this piece.],Y,Q3-C32-Bl-Rl,DP,,,,pobj
+68,3.0,9.0,"[This one] right here, just as is. Yep.",Y,Q3-C32-Bl-Rl,DP,,,,NI
+69,3.0,10.0,"Then [a red one] on top of that are the same length, the same piece.",Y,Q3-C12-Re-Rl,IR,,,,NI
+70,3.0,10.0,"Then a red one on top of that are the same length, [the same piece].",Y,Q3-C32-Bl-Rl,DS,,,,NI
+71,3.0,11.0,"And then [the prism], like tilt, turn it up.",Y,Q4-C21-Ye-Pr,N,,,,nsubj
+72,3.0,12.0,The [yellow prism] turned up on the left side of that side. Yeah.,Y,Q4-C21-Ye-Pr,N,,,,NI
+73,3.0,12.0,The yellow prism turned up on [the left side] of that side. Yeah.,N,,N,,,,pobj
+74,3.0,12.0,The yellow prism turned up on the left side of [that side]. Yeah.,N,,DS,,,,pobj
+75,3.0,13.0,"[The green prism] right here. Turn on the side, and then along with the yellow. Yep.",Y,Q2-C21-Gr-Pr,DS,,,,NI
+76,3.0,13.0,"The green prism right here. Turn on the side, and then along with [the yellow]. Yep.",Y,Q4-C21-Ye-Pr,N,,,,NI
+77,3.0,14.0,Then [this green cylinder] and... the remaining space on that side. Yeah.,Y,Q3-C33-Gr-Cy,DP,,,,NI
+78,3.0,15.0,This is all we go from here. [Two red cubes] on top of the green prism... the prism {Pointing Gesture} . Yeah.,Y,"Q3-C23-Re-Cu, Q3-C32-Re-Cu",N,,,,NI
+79,3.0,15.0,This is all we go from here. Two red cubes on top of [the green prism...] the prism  {Pointing Gesture} . Yeah.,Y,Q2-C21-Gr-Pr,N,,,,pobj
+80,3.0,15.0,This is all we go from here. Two red cubes on top of the green prism... [the prism.] {Pointing Gesture} Yeah.,Y,Q2-C21-Gr-Pr,N,,,,NI
+81,3.0,15.0,This is all we go from here. Two red cubes on top of the green prism... the prism. {Pointing Gesture} Yeah.,Y,Q2-C21-Gr-Pr,DS,,,,NI
+82,3.0,,"And then [a blue cube] on top of the yellow,.",Y,Q3-C22-Bl-Cu,N,,,,NI
+83,3.0,,And then a blue cube on top of [the yellow].,Y,Q4-C21-Ye-Pr,DS,,,,NI
+84,,,[Blue cube] on top of the blue.,,,,,,,
+85,,,Blue cube on top of [the blue].,,,,,,,
+86,,,And then [the red prism] on top of the two blue cubes.,,,,,,,
+87,,,And then the red prism on top of the [two blue cubes].,,,,,,,
+88,,,"Oh, sorry, [that's] a red cube. So yeah.",,,,,,,
+89,,,You need [one more] red queue. OQ,,,,,,,
+90,,,Complete [the square.],,,,,,,
+91,,,"Now, [the yellow cube] on top of the red cube.",,,,,,,
+92,,,"Now, the yellow cube on top of [the red cube].",,,,,,,
+93,,,Bring [another one] of these.,,,,,,,
+94,,,Bring another one of [these.],,,,,,,
+95,,,"We just need, we need [one more]. OQ",,,,,,,
+96,,,So [it] stacks like this,,,,,,,
+97,,,Yeah. And then take [them both] in vertically next to the yellow. Perfect.,,,,,,,
+98,,,Yeah. And then take them both in vertically next to [the yellow]. Perfect.,,,,,,,
+99,,,[This one] right on the side.,,,,,,,
+100,,,"And then [that piece], the short edge on the ground, or not on the ground, like {points}... Yeah.",,,,,,,
+101,,,"And then that piece, the short edge on the ground, or not on the ground, like {points}... Yeah.",,,,,,,
+102,,,"Then [the red triangle] on top of the yellow cube, but turn it that view.",,,,,,,
+103,,,"Then the red triangle on top of [the yellow cube], but turn it that view.",,,,,,,
+104,,,"Then the red triangle on top of the yellow cube, but turn [it] that view.",,,,,,,
+105,,,"And then [the blue cylinder] on top of everything, That's it.",,,,,,,
+106,,,"And then the blue cylinder on top [of everything], That's it.",,,,,,,

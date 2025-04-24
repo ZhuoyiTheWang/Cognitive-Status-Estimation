@@ -1,0 +1,36 @@
+Row 5 differs:
+File 1: ['2', '1', "All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].", 'IF', 'Q4-C21-Re-Pr']
+File 2: ['2', '1', "All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].", 'IR', 'Q4-C21-Re-Pr']
+Row 11 differs:
+File 1: ['2', '4', 'And put [a red rectangular prism] right on [it].', 'IF', 'Q4-C21-Re-Pr']
+File 2: ['2', '4', 'And put [a red rectangular prism] right on [it].', 'IR', 'Q4-C21-Re-Pr']
+Row 13 differs:
+File 1: ['2', '5', 'Or [the red, the bigger rectangular prism, identical to [the blue one]]. Yep.', 'IF', 'Q4-C21-Re-Pr']
+File 2: ['2', '5', 'Or [the red, the bigger rectangular prism, identical to [the blue one]]. Yep.', 'IR', 'Q4-C21-Re-Pr']
+Row 16 differs:
+File 1: ['2', '6', "Right to the right of [that], you're going to take [two of the green cubes].", 'IF', 'Q3-C32-Gr-Cu, Q2-C31-Gr-Cu']
+File 2: ['2', '6', "Right to the right of [that], you're going to take [two of the green cubes].", 'IR', 'Q3-C32-Gr-Cu, Q2-C31-Gr-Cu']
+Row 24 differs:
+File 1: ['2', '10', 'And next to [ those], [two of the thin green rectangular prisms], right there, and there.', 'IF', 'Q4-C12-Gr-Rl, Q4-C13-Gr-Rl']
+File 2: ['2', '10', 'And next to [ those], [two of the thin green rectangular prisms], right there, and there.', 'IR', 'Q4-C12-Gr-Rl, Q4-C13-Gr-Rl']
+Row 25 differs:
+File 1: ['2', '11', 'You are going to smush [them] together so it becomes The top and bottom face of a cube', 'IF', 'Q4-C12-Gr-Rl, Q4-C13-Gr-Rl']
+File 2: ['2', '11', 'You are going to smush [them] together so it becomes The top and bottom face of a cube', 'IR', 'Q4-C12-Gr-Rl, Q4-C13-Gr-Rl']
+Row 26 differs:
+File 1: ['2', '12', 'and stack [that] so is long ways facing up and down.', 'IF', 'Q4-C12-Gr-Rl, Q4-C13-Gr-Rl']
+File 2: ['2', '12', 'and stack [that] so is long ways facing up and down.', 'IR', 'Q4-C12-Gr-Rl, Q4-C13-Gr-Rl']
+Row 29 differs:
+File 1: ['2', '15', 'And stack [them] on top of [each other] So [it] has a circle in the middle.', 'IF', 'Q4-C11-Gr-Ar, Q4-C23-Gr-Ar']
+File 2: ['2', '15', 'And stack [them] on top of [each other] So [it] has a circle in the middle.', 'IR', 'Q4-C11-Gr-Ar, Q4-C23-Gr-Ar']
+Row 40 differs:
+File 1: ['3', '5', 'And stack [it] right next to on the right side of [the yellow bit, yellow block].', 'IF', 'Q3-C23-Ye-Pr']
+File 2: ['3', '5', 'And stack [it] right next to on the right side of [the yellow bit, yellow block].', 'IR', 'Q3-C23-Ye-Pr']
+Row 42 differs:
+File 1: ['3', '7', "On the... On top of [the yellow block], you're going to take [two blue cubes] and stack them on top of [each other].", 'IF', 'Q3-C23-Ye-Pr']
+File 2: ['3', '7', "On the... On top of [the yellow block], you're going to take [two blue cubes] and stack them on top of [each other].", 'IR', 'Q3-C23-Ye-Pr']
+Row 43 differs:
+File 1: ['3', '7', "On the... On top of [the yellow block], you're going to take [two blue cubes] and stack them on top of [each other].", 'IF', 'Q3-C11-Bl-Cu, Q3-C13-Bl-Cu']
+File 2: ['3', '7', "On the... On top of [the yellow block], you're going to take [two blue cubes] and stack them on top of [each other].", 'IR', 'Q3-C11-Bl-Cu, Q3-C13-Bl-Cu']
+Row 46 differs:
+File 1: ['3', '8', "On top of [the green block], you're going to stack [two red cubes] next to [each other].", 'IF', 'Q3-C21-Re-Cu, Q3-C31-Re-Cu']
+File 2: ['3', '8', "On top of [the green block], you're going to stack [two red cubes] next to [each other].", 'IR', 'Q3-C21-Re-Cu, Q3-C31-Re-Cu']

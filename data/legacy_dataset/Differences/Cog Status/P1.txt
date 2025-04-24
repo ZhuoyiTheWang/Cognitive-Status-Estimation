@@ -1,0 +1,45 @@
+Row 7 differs:
+File 1: ['2', '3', 'Q4-C21-Gr-Rl, ', 'A,IF', '', '']
+File 2: ['2', '3', 'Q4-C21-Gr-Rl', 'A,IF', '', '']
+Row 13 differs:
+File 1: ['2', '5', 'Q4-C21-Gr-Rl, ', '', 'IF', '']
+File 2: ['2', '5', 'Q4-C21-Gr-Rl', '', 'IF', '']
+Row 18 differs:
+File 1: ['2', '7', 'Q4-C21-Gr-Rl, ', '', 'A', '']
+File 2: ['2', '7', 'Q4-C21-Gr-Rl', '', 'A', '']
+Row 31 differs:
+File 1: ['2', '14', 'Q4-C21-Gr-Rl, ', 'A', '', '']
+File 2: ['2', '14', 'Q4-C21-Gr-Rl', 'A', '', '']
+Row 35 differs:
+File 1: ['2', '15', 'Q4-C21-Gr-Rl, ', '', 'A', '']
+File 2: ['2', '15', 'Q4-C21-Gr-Rl', '', 'A', '']
+Row 41 differs:
+File 1: ['3', '4', 'Q3-C12-Re-Rl', 'A', '', 'Maybe in focus, check on dual in-focusing ']
+File 2: ['3', '4', 'Q3-C12-Re-Rl', 'A', '', '']
+Row 42 differs:
+File 1: ['3', '4', 'Q3-C32-Gr-Rl', 'A', '', 'Maybe in focus']
+File 2: ['3', '4', 'Q3-C32-Gr-Rl', 'A', '', '']
+Row 44 differs:
+File 1: ['3', '5', 'Q3-C32-Gr-Rl', '', '', 'if was IF is now A']
+File 2: ['3', '5', 'Q3-C32-Gr-Rl', '', '', '']
+Row 47 differs:
+File 1: ['3', '8', '', '', '', 'Cylinder does not lose focus, breaking prev utterance rule']
+File 2: ['3', '8', '', '', '', '']
+Row 49 differs:
+File 1: ['3', '9', 'New-Gr-Pr', 'A,IF', '', '']
+File 2: ['3', '9', 'New-Gr-Pr', 'A,IF', '', 'Q2-C21-Gr-Pr']
+Row 50 differs:
+File 1: ['3', '9', 'Q3-C32-Gr-Cy', '', 'IF', '']
+File 2: ['3', '9', 'Q3-C33-Gr-Cy', '', 'IF', '']
+Row 53 differs:
+File 1: ['3', '11', 'Q2-C21-Gr-Pr', 'A,IF', '', 'Same object as new rep']
+File 2: ['3', '11', 'Q2-C21-Gr-Pr', 'A,IF', '', '']
+Row 58 differs:
+File 1: ['3', '14', '', '', '', 'for REG multiple green blocks are activated, but causal context implies which green block to use']
+File 2: ['3', '14', '', '', '', '']
+Row 59 differs:
+File 1: ['3', '15', 'Q3-C32-Re-Cu', 'A', '', 'Maybe in focus, check on dual in-focusing ']
+File 2: ['3', '15', 'Q3-C32-Re-Cu', 'A', '', '']
+Row 60 differs:
+File 1: ['3', '15', 'Q3-C23-Re-Cu', 'A', '', 'Maybe in focus']
+File 2: ['3', '15', 'Q3-C23-Re-Cu', 'A', '', '']

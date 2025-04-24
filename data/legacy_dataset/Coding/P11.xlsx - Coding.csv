@@ -1,0 +1,233 @@
+Quadrant,Utterance Number,Reference,Gesture Used,Object referenced,grammatical role
+2,1,"All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].",N,"New-Gr-Cu1, New-Gr-Cu2, Q3-C32-Gr-Cu",dobj
+2,1,"All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].",DP,Q4-C22-Ye-Cu,NI
+2,1,"All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].",N,"New-Bl-Pr, Q2-C13-Bl-Pr",conj
+2,1,"All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].",IR,Q4-C21-Re-Pr,pobj
+2,1,"All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].",N,"New-Re-Rl, Q3-C33-Re-Rl",NI
+2,1,"All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].",N,New-Ye-Rl,NI
+2,1,"All right. So . We're going to need [two green cubes] {gesture}, [a blue rectangular prism]{gesture}, and [a red and [yellow flat slab]] like [this blue piece].",DP,Q4-C32-Bl-Rl,NI
+2,2,"That's possible off to dismantle something later, but in the meanwhile...",N,,
+2,3,"So on the left, you're going to take [the blue rectangle prism] and the... oriented so the flat side is facing down.",DS,Q2-C13-Bl-Pr,dobj
+2,4,And put [a red rectangular prism] right on [it].,IR,Q4-C21-Re-Pr,dobj
+2,4,And put [a red rectangular prism] right on [it].,N,Q2-C13-Bl-Pr,pobj
+2,5,"Or [the red, the bigger rectangular prism, identical to [the blue one]]. Yep.",IR,Q4-C21-Re-Pr,NI
+2,5,"Or [the red, the bigger rectangular prism, identical to [the blue one]]. Yep.",N,Q2-C13-Bl-Pr,NI
+2,6,"Right to the right of [that], you're going to take [two of the green cubes].",N,"Q2-C13-Bl-Pr, Q4-C21-Re-Pr",pobj
+2,6,"Right to the right of [that], you're going to take [two of the green cubes].",IR,"Q3-C32-Gr-Cu, Q2-C31-Gr-Cu",pobj
+2,7,And stack [them] on top of [each other].,N,"Q3-C32-Gr-Cu, Q2-C31-Gr-Cu",dobj
+2,7,And stack [them] on top of [each other].,N,"Q3-C32-Gr-Cu, Q2-C31-Gr-Cu",NI
+2,8,So once more we are gonna need [another green cube].,N,Q2-C31-Gr-Cu,dobj
+2,9,"Right next to [those two], you're going to put [two yellow cubes] stacked on top of [each other].",N,"Q3-C32-Gr-Cu, Q2-C31-Gr-Cu",NI
+2,9,"Right next to [those two], you're going to put [two yellow cubes] stacked on top of [each other].",N,"Q4-C12-Ye-Cu, Q4-C22-Ye-Cu",dobj
+2,9,"Right next to [those two], you're going to put [two yellow cubes] stacked on top of [each other].",N,"Q4-C12-Ye-Cu, Q4-C22-Ye-Cu",NI
+2,10,"And next to [ those], [two of the thin green rectangular prisms], right there, and there.",N,"Q4-C12-Ye-Cu, Q4-C22-Ye-Cu",NI
+2,10,"And next to [ those], [two of the thin green rectangular prisms], right there, and there.",IR,"Q4-C12-Gr-Rl, Q4-C13-Gr-Rl",pobj
+2,11,You are going to smush [them] together so it becomes The top and bottom face of a cube,IR,"Q4-C12-Gr-Rl, Q4-C13-Gr-Rl",dobj
+2,12,and stack [that] so is long ways facing up and down.,IR,"Q4-C12-Gr-Rl, Q4-C13-Gr-Rl",dobj
+2,13,Perfect. ,N,,
+2,14,"Starting from the left again, you're going to take [two of the arches in green].",DS,"Q4-C11-Gr-Ar, Q4-C23-Gr-Ar",pobj
+2,15,And stack [them] on top of [each other] So [it] has a circle in the middle.,IR,"Q4-C11-Gr-Ar, Q4-C23-Gr-Ar",dobj
+2,15,And stack [them] on top of [each other] So [it] has a circle in the middle.,N,"Q4-C11-Gr-Ar, Q4-C23-Gr-Ar",NI
+2,15,And stack [them] on top of [each other] So [it] has a circle in the middle.,N,"Q4-C11-Gr-Ar, Q4-C23-Gr-Ar",nsubj
+,,,,,
+3,1,Lovely. We're going to start off with [the yellow L block right here on the left side].,DP,Q3-C23-Ye-Pr,pobj
+3,2,"On... right next to [that], you're going to take [this green piece] and oriented length-wise pointed towards me.",N,Q3-C23-Ye-Pr,pobj
+3,2,"On... right next to [that], you're going to take [this green piece] and oriented length-wise pointed towards me.",DP,Q3-C22-Gr-Rl,dobj
+3,3,"On top of [that], do the same with [the red, red block].",N,Q3-C22-Gr-Rl,pobj
+3,3,"On top of [that], do the same with [the red, red block].",DS,Q3-C12-Re-Rl,pobj
+3,4,"Oriented lengthwise pointed towards me, you're going to take [this green block].",DP,Q3-C31-Gr-Pr,dobj
+3,5,"And stack [it] right next to on the right side of [the yellow bit, yellow block].",DS,Q3-C31-Gr-Pr,dobj
+3,5,"And stack [it] right next to on the right side of [the yellow bit, yellow block].",IR,Q3-C23-Ye-Pr,dobj
+3,6,Perfect.,N,,
+3,7,"On the... On top of [the yellow block], you're going to take [two blue cubes] and stack them on top of [each other].",IR,Q3-C23-Ye-Pr,pobj
+3,7,"On the... On top of [the yellow block], you're going to take [two blue cubes] and stack them on top of [each other].",IR,"Q3-C11-Bl-Cu, Q3-C13-Bl-Cu",dobj
+3,7,"On the... On top of [the yellow block], you're going to take [two blue cubes] and stack them on top of [each other].",N,"Q3-C11-Bl-Cu, Q3-C13-Bl-Cu",NI
+3,8,"On top of [the green block], you're going to stack [two red cubes] next to [each other].",N,Q3-C31-Gr-Pr,pobj
+3,8,"On top of [the green block], you're going to stack [two red cubes] next to [each other].",IR,"Q3-C21-Re-Cu, Q3-C31-Re-Cu",dobj
+3,8,"On top of [the green block], you're going to stack [two red cubes] next to [each other].",N,"Q3-C21-Re-Cu, Q3-C31-Re-Cu",NI
+3,9,"So [it]'ll become a flat layer, completely covering the top face of [the green block].",N,"Q3-C21-Re-Cu, Q3-C31-Re-Cu",nsubj
+3,9,"So [it]'ll become a flat layer, completely covering the top face of [the green block].",N,Q3-C31-Gr-Pr,pobj
+3,10,Yep. ,N,,
+3,11,Excellent. ,N,,
+3,12,Alright. We're going to need [a green cylinder] and [a red block identical to [this one]]. ,N,New-Gr-Cy,dobj
+3,12,Alright. We're going to need [a green cylinder] and [a red block identical to [this one]]. ,N,New-Re-Pr,pobj
+3,12,Alright. We're going to need [a green cylinder] and [a red block identical to [this one]]. ,DP,Q3-C31-Gr-Pr,NI
+3,13,[This one],DP,Q3-C31-Gr-Pr,NI
+3,14,You're going to put [the green cylinder] on top of this space right here.,N,Q2-C32-Gr-Cy,dobj
+3,15,"And on top of [the red cubes], you're going to stack [the red prism], identical orientation to [this green one].",DS,"Q3-C21-Re-Cu, Q3-C31-Re-Cu",pobj
+3,15,"And on top of [the red cubes], you're going to stack [the red prism], identical orientation to [this green one].",DP,Q4-C22-Re-Pr,dobj
+3,15,"And on top of [the red cubes], you're going to stack [the red prism], identical orientation to [this green one].",DP,Q3-C31-Gr-Pr,NI
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+"So, look for that piece.",,,,,
+Okay. And then two more pieces.,,,,,
+"One of them is a red triangle piece, but it's... it has the same shape as the cube.",,,,,
+It's red and triangle.,,,,,
+So look for that piece.,,,,,
+19:38,,,,,
+"Red triangle, it's going to be like, if you cut the square in half diagonally, it's going to be that shape.",,,,,
+"Oh, that's right.",,,,,
+"Okay. And then that's going to stack with the diagonal side, going towards the right of the whole thing, like this way. Yeah.",,,,,
+"And on the very top of it, is going to be a blue cylinder like this.",,,,,
+So look for that piece.,,,,,
+And then that goes on top of the two red rectangles.,,,,,
+Okay. That's right. But I'll just double check. Okay. We're finished with this one.,,,,,
+20:57,,,,,
+"Okay. So this one, I would start with the long rectangle blue piece",,,,,
+And you'll find a long rectangle blue piece.,,,,,
+"Actually, no, find two of them.",,,,,
+Cause you need one of them for the most part.,,,,,
+21:19,,,,,
+"Okay. So, you know, one of them is going to be flat like this and the next piece, it was later.",,,,,
+So next to that is going to be a yellow arch like that piece.,,,,,
+And this time you're going to have it on the short edge vertically.,,,,,
+"And the long face is going to be to the right of this, to the right of the yellow piece on the floor. The opposite. Yeah.",,,,,
+The arch is facing away from that.,,,,,
+"And then to the right of that is a blue cylinder like this piece. And, yeah, just like that.",,,,,
+22:01,,,,,
+Can you... you can put the next blue piece staffed vertically at the very left of this blue rectangle.,,,,,
+It's going to be on top of the blue rectangle. Yeah. Like that.,,,,,
+And then there's going to be a yellow slope like this.,,,,,
+It's going to be stacked vertically and the slant is going to be going this way. The long face is going to be parallel. It's going to be to the left of everything.,,,,,
+"But the long side is going to be parallel to the, like the blue rectangle, and the slope is going to be pointing away. Yeah.",,,,,
+Okay. And then there's going to be a red arch inside of that. So look for a red arch.,,,,,
+23:08,,,,,
+Okay. And that's going to be stacked vertically inside the blue thing.,,,,,
+It's going to be facing the same way as the yellow arch. Yeah.,,,,,
+Okay. And then there's going to be a yellow and a green cube inside of there.,,,,,
+So look for a yellow and a green cube.,,,,,
+Okay. So the yellow cube is going to be right next to the arch on top of the blue rectangle.,,,,,
+Yeah. Right at the very right of the blue.,,,,,
+And on top of that is the green.,,,,,
+23:47,,,,,
+And then there's going to be two green semi-circles and two blue semi-circles.,,,,,
+So they're going to form like a circle on top of the arches.,,,,,
+So the green one is going to form a circle on top of the red.,,,,,
+And the blue is going to form a circle on top of that.,,,,,
+"Then, what's going to be like a circle this way.",,,,,
+It's going to be like the same shape as the cylinder from top down.,,,,,
+Yeah. So it's going to be like that except the...,,,,,
+"Both of the pieces that are going to be curved so that the indent between them is facing like perpendicular from everything else. Like this way. Yeah. So I don't know how to explain it about that, but it's going to be like that.",,,,,
+"So you need to find another green semicircle, another blue center to finish that.",,,,,
+24:58:00,,,,,
+Yeah. It's just going to finish those out.,,,,,
+25:08:00,,,,,
+"Okay. And then... Oh, no. Okay. So the semicircle is actually supposed to be on top of the green block, just to move it up there. Yeah.",,,,,
+And then a blue cube like this is on top of the yellow arch.,,,,,
+"Okay. And then there's going to be two yellow cylinders, like the blue one. So find those pieces.",,,,,
+25:49:00,,,,,
+"And then those are going to stack on top of each other on top of the blue block, the blue cube.",,,,,
+"Okay. And then there's going to be a blue, a red and a yellow slope like this. So look for those pieces.",,,,,
+26:25:00,,,,,
+"Ok. So the first one is going to be the blue one, which is going to go on top of the cylinder.",,,,,
+It's going to be facing the opposite way.,,,,,
+"It's this yellow one. Yeah, just like that.",,,,,
+"And then there's going to be a yellow slop facing the same direction as this, on top the yellow or the blue semi-circles.",,,,,
+Yup. And then the red slope is going to be facing with the long side down.,,,,,
+"And it's going to, its slope is going to be in the same direction as the yellows.",,,,,
+Yeah. I think that's it. We're done with this one.,,,,,

@@ -1,0 +1,440 @@
+Trial: P6
+Quadrant: 3
+Object: Q2-C21-Gr-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 3
+Object: Q1-C11-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P6
+Quadrant: 2
+Object: Q4-C23-Gr-Tr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 3
+Object: Q3-C32-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'IF'}
+  {'Utterance': 2, 'Current Status': 'A'}
+  {'Utterance': 3, 'Current Status': 'A'}
+  {'Utterance': 4, 'Current Status': 'A'}
+  {'Utterance': 5, 'Current Status': 'A'}
+  {'Utterance': 6, 'Current Status': 'A'}
+  {'Utterance': 7, 'Current Status': 'A'}
+  {'Utterance': 8, 'Current Status': 'A'}
+  {'Utterance': 9, 'Current Status': 'A'}
+  {'Utterance': 10, 'Current Status': 'A'}
+  {'Utterance': 11, 'Current Status': 'A'}
+  {'Utterance': 12, 'Current Status': 'A'}
+  {'Utterance': 13, 'Current Status': 'A'}
+  {'Utterance': 14, 'Current Status': 'A'}
+  {'Utterance': 15, 'Current Status': 'A'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q2-C12-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F'}
+  {'Utterance': 2, 'Current Status': 'F'}
+  {'Utterance': 3, 'Current Status': 'F'}
+  {'Utterance': 4, 'Current Status': 'F'}
+  {'Utterance': 5, 'Current Status': 'F'}
+  {'Utterance': 6, 'Current Status': 'F'}
+  {'Utterance': 7, 'Current Status': 'F'}
+  {'Utterance': 8, 'Current Status': 'F'}
+  {'Utterance': 9, 'Current Status': 'F'}
+  {'Utterance': 10, 'Current Status': 'F'}
+  {'Utterance': 11, 'Current Status': 'F'}
+  {'Utterance': 12, 'Current Status': 'F'}
+  {'Utterance': 13, 'Current Status': 'F'}
+  {'Utterance': 14, 'Current Status': 'F'}
+  {'Utterance': 15, 'Current Status': 'F'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 2
+Object: Q4-C33-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q4-C23-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q4-C33-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P1
+Quadrant: 2
+Object: Q4-C32-Re-Ts
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 2
+Object: Q4-C11-Gr-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P11
+Quadrant: 2
+Object: Q2-C13-Bl-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'A'}
+  {'Utterance': 2, 'Current Status': 'A'}
+  {'Utterance': 3, 'Current Status': 'A'}
+  {'Utterance': 4, 'Current Status': 'A'}
+  {'Utterance': 5, 'Current Status': 'A'}
+  {'Utterance': 6, 'Current Status': 'A'}
+  {'Utterance': 7, 'Current Status': 'A'}
+  {'Utterance': 8, 'Current Status': 'A'}
+  {'Utterance': 9, 'Current Status': 'A'}
+  {'Utterance': 10, 'Current Status': 'A'}
+  {'Utterance': 11, 'Current Status': 'A'}
+  {'Utterance': 12, 'Current Status': 'A'}
+  {'Utterance': 13, 'Current Status': 'A'}
+  {'Utterance': 14, 'Current Status': 'A'}
+  {'Utterance': 15, 'Current Status': 'A'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 2
+Object: Q2-C13-Ye-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F'}
+  {'Utterance': 2, 'Current Status': 'F'}
+  {'Utterance': 3, 'Current Status': 'F'}
+  {'Utterance': 4, 'Current Status': 'F'}
+  {'Utterance': 5, 'Current Status': 'F'}
+  {'Utterance': 6, 'Current Status': 'F'}
+  {'Utterance': 7, 'Current Status': 'F'}
+  {'Utterance': 8, 'Current Status': 'F'}
+  {'Utterance': 9, 'Current Status': 'F'}
+  {'Utterance': 10, 'Current Status': 'F'}
+  {'Utterance': 11, 'Current Status': 'F'}
+  {'Utterance': 12, 'Current Status': 'F'}
+  {'Utterance': 13, 'Current Status': 'F'}
+  {'Utterance': 14, 'Current Status': 'F'}
+  {'Utterance': 15, 'Current Status': 'F'}
+--------------------------------------------------
+Trial: P2
+Quadrant: 2
+Object: Q2-C32-Bl-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F'}
+  {'Utterance': 2, 'Current Status': 'F'}
+  {'Utterance': 3, 'Current Status': 'F'}
+  {'Utterance': 4, 'Current Status': 'F'}
+  {'Utterance': 5, 'Current Status': 'F'}
+  {'Utterance': 6, 'Current Status': 'F'}
+  {'Utterance': 7, 'Current Status': 'F'}
+  {'Utterance': 8, 'Current Status': 'F'}
+  {'Utterance': 9, 'Current Status': 'F'}
+  {'Utterance': 10, 'Current Status': 'F'}
+  {'Utterance': 11, 'Current Status': 'F'}
+  {'Utterance': 12, 'Current Status': 'F'}
+  {'Utterance': 13, 'Current Status': 'F'}
+  {'Utterance': 14, 'Current Status': 'F'}
+  {'Utterance': 15, 'Current Status': 'F'}
+--------------------------------------------------
+Trial: P5
+Quadrant: 2
+Object: Q2-C32-Bl-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'IF'}
+  {'Utterance': 2, 'Current Status': 'A'}
+  {'Utterance': 3, 'Current Status': 'A'}
+  {'Utterance': 4, 'Current Status': 'A'}
+  {'Utterance': 5, 'Current Status': 'A'}
+  {'Utterance': 6, 'Current Status': 'A'}
+  {'Utterance': 7, 'Current Status': 'A'}
+  {'Utterance': 8, 'Current Status': 'A'}
+  {'Utterance': 9, 'Current Status': 'A'}
+  {'Utterance': 10, 'Current Status': 'A'}
+  {'Utterance': 11, 'Current Status': 'A'}
+  {'Utterance': 12, 'Current Status': 'A'}
+  {'Utterance': 13, 'Current Status': 'A'}
+  {'Utterance': 14, 'Current Status': 'A'}
+  {'Utterance': 15, 'Current Status': 'A'}
+--------------------------------------------------
+Trial: P6
+Quadrant: 2
+Object: Q3-C11-Gr-Ar
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P5
+Quadrant: 3
+Object: Q3-C32-Re-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F'}
+  {'Utterance': 2, 'Current Status': 'F'}
+  {'Utterance': 3, 'Current Status': 'F'}
+  {'Utterance': 4, 'Current Status': 'F'}
+  {'Utterance': 5, 'Current Status': 'F'}
+  {'Utterance': 6, 'Current Status': 'F'}
+  {'Utterance': 7, 'Current Status': 'F'}
+  {'Utterance': 8, 'Current Status': 'F'}
+  {'Utterance': 9, 'Current Status': 'F'}
+  {'Utterance': 10, 'Current Status': 'F'}
+  {'Utterance': 11, 'Current Status': 'F'}
+  {'Utterance': 12, 'Current Status': 'F'}
+  {'Utterance': 13, 'Current Status': 'F'}
+  {'Utterance': 14, 'Current Status': 'F'}
+  {'Utterance': 15, 'Current Status': 'F'}
+--------------------------------------------------
+Trial: P7
+Quadrant: 2
+Object: Q4-C11-Re-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'UI'}
+  {'Utterance': 2, 'Current Status': 'UI'}
+  {'Utterance': 3, 'Current Status': 'UI'}
+  {'Utterance': 4, 'Current Status': 'UI'}
+  {'Utterance': 5, 'Current Status': 'UI'}
+  {'Utterance': 6, 'Current Status': 'UI'}
+  {'Utterance': 7, 'Current Status': 'UI'}
+  {'Utterance': 8, 'Current Status': 'UI'}
+  {'Utterance': 9, 'Current Status': 'UI'}
+  {'Utterance': 10, 'Current Status': 'UI'}
+  {'Utterance': 11, 'Current Status': 'UI'}
+  {'Utterance': 12, 'Current Status': 'UI'}
+  {'Utterance': 13, 'Current Status': 'UI'}
+  {'Utterance': 14, 'Current Status': 'UI'}
+  {'Utterance': 15, 'Current Status': 'UI'}
+--------------------------------------------------
+Trial: P11
+Quadrant: 2
+Object: Q4-C21-Re-Pr
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'A'}
+  {'Utterance': 2, 'Current Status': 'A'}
+  {'Utterance': 3, 'Current Status': 'A'}
+  {'Utterance': 4, 'Current Status': 'A'}
+  {'Utterance': 5, 'Current Status': 'A'}
+  {'Utterance': 6, 'Current Status': 'A'}
+  {'Utterance': 7, 'Current Status': 'A'}
+  {'Utterance': 8, 'Current Status': 'A'}
+  {'Utterance': 9, 'Current Status': 'A'}
+  {'Utterance': 10, 'Current Status': 'A'}
+  {'Utterance': 11, 'Current Status': 'A'}
+  {'Utterance': 12, 'Current Status': 'A'}
+  {'Utterance': 13, 'Current Status': 'A'}
+  {'Utterance': 14, 'Current Status': 'A'}
+  {'Utterance': 15, 'Current Status': 'A'}
+--------------------------------------------------
+Trial: P8
+Quadrant: 3
+Object: Q3-C31-Bl-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F'}
+  {'Utterance': 2, 'Current Status': 'F'}
+  {'Utterance': 3, 'Current Status': 'F'}
+  {'Utterance': 4, 'Current Status': 'F'}
+  {'Utterance': 5, 'Current Status': 'F'}
+  {'Utterance': 6, 'Current Status': 'F'}
+  {'Utterance': 7, 'Current Status': 'F'}
+  {'Utterance': 8, 'Current Status': 'F'}
+  {'Utterance': 9, 'Current Status': 'F'}
+  {'Utterance': 10, 'Current Status': 'F'}
+  {'Utterance': 11, 'Current Status': 'F'}
+  {'Utterance': 12, 'Current Status': 'F'}
+  {'Utterance': 13, 'Current Status': 'F'}
+  {'Utterance': 14, 'Current Status': 'F'}
+  {'Utterance': 15, 'Current Status': 'F'}
+--------------------------------------------------
+Trial: P11
+Quadrant: 3
+Object: Q3-C21-Re-Cu
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F'}
+  {'Utterance': 2, 'Current Status': 'F'}
+  {'Utterance': 3, 'Current Status': 'F'}
+  {'Utterance': 4, 'Current Status': 'F'}
+  {'Utterance': 5, 'Current Status': 'F'}
+  {'Utterance': 6, 'Current Status': 'F'}
+  {'Utterance': 7, 'Current Status': 'F'}
+  {'Utterance': 8, 'Current Status': 'F'}
+  {'Utterance': 9, 'Current Status': 'F'}
+  {'Utterance': 10, 'Current Status': 'F'}
+  {'Utterance': 11, 'Current Status': 'F'}
+  {'Utterance': 12, 'Current Status': 'F'}
+  {'Utterance': 13, 'Current Status': 'F'}
+  {'Utterance': 14, 'Current Status': 'F'}
+  {'Utterance': 15, 'Current Status': 'F'}
+--------------------------------------------------
+Trial: P5
+Quadrant: 3
+Object: Q3-C32-Gr-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'IF'}
+  {'Utterance': 2, 'Current Status': 'A'}
+  {'Utterance': 3, 'Current Status': 'A'}
+  {'Utterance': 4, 'Current Status': 'A'}
+  {'Utterance': 5, 'Current Status': 'A'}
+  {'Utterance': 6, 'Current Status': 'A'}
+  {'Utterance': 7, 'Current Status': 'A'}
+  {'Utterance': 8, 'Current Status': 'A'}
+  {'Utterance': 9, 'Current Status': 'A'}
+  {'Utterance': 10, 'Current Status': 'A'}
+  {'Utterance': 11, 'Current Status': 'A'}
+  {'Utterance': 12, 'Current Status': 'A'}
+  {'Utterance': 13, 'Current Status': 'A'}
+  {'Utterance': 14, 'Current Status': 'A'}
+  {'Utterance': 15, 'Current Status': 'A'}
+--------------------------------------------------
+Trial: P10
+Quadrant: 3
+Object: Q3-C12-Re-Rl
+Input_Data:
+  {'Utterance': 1, 'Current Status': 'F'}
+  {'Utterance': 2, 'Current Status': 'F'}
+  {'Utterance': 3, 'Current Status': 'F'}
+  {'Utterance': 4, 'Current Status': 'F'}
+  {'Utterance': 5, 'Current Status': 'F'}
+  {'Utterance': 6, 'Current Status': 'F'}
+  {'Utterance': 7, 'Current Status': 'F'}
+  {'Utterance': 8, 'Current Status': 'F'}
+  {'Utterance': 9, 'Current Status': 'F'}
+  {'Utterance': 10, 'Current Status': 'F'}
+  {'Utterance': 11, 'Current Status': 'F'}
+  {'Utterance': 12, 'Current Status': 'F'}
+  {'Utterance': 13, 'Current Status': 'F'}
+  {'Utterance': 14, 'Current Status': 'F'}
+  {'Utterance': 15, 'Current Status': 'F'}
+--------------------------------------------------
